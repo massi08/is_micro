@@ -4,7 +4,7 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <javaee:handler-chain>
         <javaee:handler>
-            <javaee:handler-class>fr.univlyon1.tiw1.tp8.monolitic.handlers.MessageHandler</javaee:handler-class>
+            <javaee:handler-class>fr.univlyon1.tiw1.tp8.monolitic.handler.MessageHandler</javaee:handler-class>
         </javaee:handler>
     </javaee:handler-chain>
 </javaee:handler-chains>
